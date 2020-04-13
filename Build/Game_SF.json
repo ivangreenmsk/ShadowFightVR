@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Arma Unity Project",
+"productName": "ShadowFightTest",
 "productVersion": "0.1",
 "dataUrl": "Game_SF.data.unityweb",
 "wasmCodeUrl": "Game_SF.wasm.code.unityweb",

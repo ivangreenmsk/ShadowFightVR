@@ -1,2 +1,2 @@
-# ShadowFightVR
+# ShadowFight3
 UIPrototype
